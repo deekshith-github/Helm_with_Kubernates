@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: kumaravel29/tomcat_sample
+  repository: kottedeek/nodejs:latest
   pullPolicy: Always
   tag: "latest"
 
